@@ -1,28 +1,28 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rat
+# <img src='man/figures/logo.png' align="center" height="120" />
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of testpackage is to …
+The goal of rat is to …
 
 ## Installation
 
-You can install the released version of testpackage from
+You can install the released version of rat from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("testpackage")
+install.packages("rat")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("katiepress/testpackage")
+devtools::install_github("katiepress/rat")
 ```
 
 ## Example

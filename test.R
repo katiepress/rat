@@ -20,3 +20,11 @@ library(knitr)
 
 #use_readme_rmd() (this is for the whole pacakge)
 #build_readme() is the best way to render the readme_rmd
+
+
+#add logo?
+#use_logo("./ratlogo.png")
+
+#usethis::use_logo("./ratlogo.png", geometry = "240x278", retina = TRUE)
+
+#usethis::use_data(jj_data)

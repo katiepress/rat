@@ -1,0 +1,28 @@
+#' California Juvenile Justice Trends
+#'
+#' A description.
+#'
+#' @format A data frame with 10484 rows and 19 variables:
+#' \describe{
+#'   \item{report_year}{year of report}
+#'   \item{gender}{gender of individual}
+#'   \item{race}{race of individual}
+#'   \item{age_group}{age description}
+#'   \item{action_type_desc}{description}
+#'   \item{referal_type}{description}
+#'   \item{referral_source_desc}{description}
+#'   \item{detention_desc}{description}
+#'   \item{defense_rep_desc}{description}
+#'   \item{fitness_hearing_ordered}{description}
+#'   \item{fitness_hearing_out_desc}{description}
+#'   \item{offense_level}{description}
+#'   \item{disposition_desc}{description}
+#'   \item{sustained_offense_level}{description}
+#'   \item{sustained_group_offense_level}{description}
+#'   \item{most_serious_sustained}{description}
+#'   \item{risk_level}{description}
+#'   \item{recid_flag}{description}
+#'   ...
+#' }
+#' @source \url{http://www.none.test/}
+"jj_data"
