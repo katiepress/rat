@@ -22,9 +22,17 @@ library(knitr)
 #build_readme() is the best way to render the readme_rmd
 
 
+#use_package("ggplot2", type = "Imports")
+#use_package("tidyverse", type = "Imports")
+#use_package("janitor", type = "Imports")
+#use_package("lubridate", type = "Imports")
+
 #add logo?
+
 #use_logo("./ratlogo.png")
 
 #usethis::use_logo("./ratlogo.png", geometry = "240x278", retina = TRUE)
 
 #usethis::use_data(jj_data)
+
+#usethis::use_data()

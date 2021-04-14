@@ -2,3 +2,5 @@
 
 export(fbind)
 export(fcount)
+export(rat_bar)
+export(rat_stacked_bar)
